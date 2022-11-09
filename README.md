@@ -97,9 +97,15 @@ np.mean(pred(res.x,x)==y)
 ```
 
 ## Output:
+![x-array value](xarray.png)
+![y-array value](yarray.png)
+![Exam-1 graph](exam1.png)
 ![sigmoid curve](sigmoid.png)
+![xtrain and ytrain grad value](xtrain,ytrain.png)
+![res value](res.png)
 ![logistic regression using gradient descent](grad.png)
-
+![probability value](prob.png)
+![prediction value of mean](pred.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
